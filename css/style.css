@@ -98,7 +98,7 @@ p a {
     }
 }
 
-@media (min-width: 280px) {
+@media (min-width: 1020px) {
     .container {
         width: 90%;
         margin: 50px auto;
