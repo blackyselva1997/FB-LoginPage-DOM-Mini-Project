@@ -75,3 +75,36 @@ p a {
     text-decoration: none;
     font-size: 14px;
 }
+
+@media (min-width: 280px) {
+    .container {
+        width: 90%;
+        margin: 50px auto;
+    }
+
+    .card {
+        width: auto;
+    }
+}
+
+@media (min-width: 600px) {
+    .container {
+        width: 90%;
+        margin: 50px auto;
+    }
+
+    .card {
+        width: 396px;
+    }
+}
+
+@media (min-width: 280px) {
+    .container {
+        width: 90%;
+        margin: 50px auto;
+    }
+
+    .card {
+        width: 396px;
+    }
+}
